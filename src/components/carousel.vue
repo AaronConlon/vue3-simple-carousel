@@ -23,6 +23,7 @@ let timer = null
 // 根据 flag 判断向前还是向后播放
 let positive = true
 const autoPlay = () => {
+  clearInterval(timer)
   timer = setInterval(() => {
     if (left.value === -(imgList.length - 1) * 800) {
       positive = false
