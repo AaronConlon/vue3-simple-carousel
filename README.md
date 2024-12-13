@@ -2,6 +2,8 @@
 
 ![](https://de4965e.webp.li/blog-images/2024/12/8013eef9bdb17b1ec9ba49b01473ebfb.png)
 
+体验地址：[传送门](https://vue3-simple-carousel.netlify.app/)
+
 ## 功能
 - 自动轮播
 - 左右切换按钮
